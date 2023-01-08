@@ -1,0 +1,133 @@
+@font-face {
+    font-family: Font;
+    src: url(Roboto-Bold.ttf);
+}
+.Full{
+        color: black;
+        font-family: Font;
+        font-size: 3rem;
+        font-weight: 500;
+        margin-top: 50px;
+}
+.Name{
+    height: 40px;
+    margin-left: 30px;
+    width: 500px;
+}
+.Email{
+            color: black;
+            font-family: Font;
+            font-size: 3rem;
+            font-weight: 500;
+            margin-top: 50px;
+            margin-bottom: 20px;
+            margin-left: 20px;
+            margin-right: 30px;
+}
+.email{
+        height: 40px;
+            margin-left: 50px;
+            width: 500px;
+            margin-left: 30px;
+            margin-bottom: 20px;
+}
+.Description{
+    margin-top: 50px;
+                color: black;
+                    font-family: Font;
+                    font-size: 3rem;
+                    font-weight: 500;
+                    margin-top: 20px;
+                    margin-right: 13px;
+}
+.Descripshaun{
+    margin-top: 35px;
+            height: 40px;
+                margin-left: px;
+                width: 500px;
+}
+.Number{
+        margin-top: 50px;
+            color: black;
+            font-family: Font;
+            font-size: 3rem;
+            font-weight: 500;
+            margin-top: 50px;
+            margin-right: 20px;
+            margin-left: 18px;
+            margin-bottom: 30px;
+}
+.number{
+        margin-top: 50px;
+            height: 40px;
+            margin-left: 3px;
+            width: 500px;
+            margin-right: 150px;
+            margin-bottom: 30px;
+}
+.Service{
+            margin-top: 50px;
+                color: black;
+                font-family: Font;
+                font-size: 3rem;
+                font-weight: 500;
+                margin-right: 20px;
+                margin-left: 500px;
+}
+.mes{
+        text-align: center;
+            color: black;
+            font-family: Font;
+            font-size: 2.8rem;
+            font-weight: 500;
+            margin-top: 50px;
+            margin-bottom: 20px;
+            margin-left: 200px;
+}
+.section{
+    padding-top: 30px;
+    padding-left: 63.5rem;
+    padding-bottom: 30px;
+}
+span{
+    color: white;
+}
+span:hover{
+    color: white;
+}
+.section{
+            
+}
+.car {
+    display: block;
+    width: 100%;
+    padding: 1.5rem;
+    font-size: 2rem;
+    text-align: center;
+    color: #ffffff;
+    /* background-color: #d8e0fd; */
+    border: none;
+    border-radius: 0.4rem;
+    transition: 0.2s;
+    cursor: pointer;
+    letter-spacing: 0.1rem;
+    text-align: center;
+    font-family: Font;
+    font-size: 2.8rem;
+    font-weight: 500;
+    margin-bottom: 1.5px;
+}
+
+.car {
+
+    transition: 0.2s;
+    background-color: darkblue;
+    text-align: center;
+
+}
+
+.car:hover,
+.car:active {
+    background-color: #0e0ee2;
+    color: #ffffff;
+}
